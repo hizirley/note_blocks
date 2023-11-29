@@ -1,7 +1,7 @@
 # note_blocks
 
 
-![1](https://github.com/hizirley/note_blocks/assets/92213429/e874b5bc-eb11-4afc-9411-79e46ec78646)
+
 a note app made with flutter!
 
 
